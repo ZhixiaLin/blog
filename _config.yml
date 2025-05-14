@@ -7,6 +7,14 @@ baseurl: "/programming-journal"
 plugins:
   - jekyll-default-layout
 
+
+# 添加导航栏标签页
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Test"
+    url: "/test"
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
