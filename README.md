@@ -1,5 +1,5 @@
 Website:
-https://zhixialin.github.io/programming-journal/
+https://zhixialin.github.io/blog/
 
 Local Run:
 ```bash
