@@ -1,9 +1,9 @@
-title: Programming Journal
+title: Blog
 description: Daily code snippets, development notes, and programming reflections
 theme: just-the-docs
 
-url: https://zhixialin.github.io/programming-journal
-baseurl: "/programming-journal"
+url: https://zhixialin.github.io/blog
+baseurl: "/blog"
 plugins:
   - jekyll-default-layout
 
