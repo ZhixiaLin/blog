@@ -2,8 +2,11 @@ title: Blog
 description: Daily code snippets, development notes, and programming reflections
 theme: just-the-docs
 
-url: https://zhixialin.github.io/blog
+url: https://zhixialin.github.io
 baseurl: "/blog"
+
+destination: ./_site
+
 plugins:
   - jekyll-default-layout
 
@@ -13,6 +16,6 @@ just_the_docs:
     structure: nested
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github Repository: https://github.com/ZhixiaLin/blog
 
 footer_content: "MIT Licensed | Copyright © Zhixia Lin 2025"
